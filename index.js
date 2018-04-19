@@ -17,7 +17,7 @@ function destructivelyRemoveFirstKitten() {
 }
 
 function appendKitten() {
-  ['Bob' ,...kittens];
+  ['Broom' ,...kittens];
     return kittens;
 }
 
