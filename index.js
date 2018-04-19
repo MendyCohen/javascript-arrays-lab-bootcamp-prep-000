@@ -7,3 +7,5 @@ function destructivelyAppendKitten() {
 function destructivelyPrependKitten() {
   kittens.unshift('Bob');
 }
+
+function 
